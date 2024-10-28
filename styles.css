@@ -1,0 +1,43 @@
+body {
+    background:lightgrey ;
+}
+.head{margin-left: 500px;
+background: white;
+margin-right: 500px;
+text-align: center;
+}
+
+
+
+
+.container
+{margin-left: 500px; 
+margin-right: 500px;
+
+}
+.post1{
+    background: white;
+    align-items: center;
+}
+
+.post2{
+    background: white;
+    align-items: center;
+    margin-top: 50px;
+}
+.post3{ 
+    background: white;
+
+    align-items: center;
+    margin-top: 50px;
+}
+.post-header{
+    border: 2px solid black;
+}
+.post-photo{
+    border: 2px solid black;
+}
+.post-footer{
+    border: 2px solid black;
+}
+img{ width: 100%;}
